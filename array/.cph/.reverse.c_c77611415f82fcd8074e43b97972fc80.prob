@@ -1,0 +1,1 @@
+{"name":"Local: reverse","url":"/home/sadek/phitron/array/reverse.c","tests":[{"id":1758077659648,"input":"3\n10 20 30","output":"30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sadek/phitron/array/reverse.c","group":"local","local":true}

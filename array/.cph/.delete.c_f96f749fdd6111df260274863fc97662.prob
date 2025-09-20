@@ -1,0 +1,1 @@
+{"name":"Local: delete","url":"/home/sadek/phitron/array/delete.c","tests":[{"id":1758076665353,"input":"3\n20 30 40\n1","output":"20 40"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sadek/phitron/array/delete.c","group":"local","local":true}
