@@ -1,0 +1,1 @@
+{"name":"Local: freq_array","url":"/home/sadek/phitron/string/freq_array.c","tests":[{"id":1758692132230,"input":"5\n3 2 3 0 2","output":"0 = 1\n1 = 0\n2 = 2\n3 = 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sadek/phitron/string/freq_array.c","group":"local","local":true}

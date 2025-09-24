@@ -1,0 +1,1 @@
+{"name":"Local: str_comp","url":"/home/sadek/phitron/string/str_comp.c","tests":[{"id":1758520458068,"input":"apple cat","output":"apple"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sadek/phitron/string/str_comp.c","group":"local","local":true}

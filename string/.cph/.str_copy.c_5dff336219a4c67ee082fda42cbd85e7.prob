@@ -1,0 +1,1 @@
+{"name":"Local: str_copy","url":"/home/sadek/phitron/string/str_copy.c","tests":[{"id":1758519385340,"input":"orange apple","output":"apple apple"},{"id":1758519526057,"input":"hi bye","output":"bye bye"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sadek/phitron/string/str_copy.c","group":"local","local":true}
