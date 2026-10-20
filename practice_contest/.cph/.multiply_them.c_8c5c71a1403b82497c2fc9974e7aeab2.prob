@@ -1,1 +1,0 @@
-{"name":"Local: multiply_them","url":"/home/sadek/phitron/practice_contest/multiply_them.c","tests":[{"id":1792425884496,"input":"2\n5","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sadek/phitron/practice_contest/multiply_them.c","group":"local","local":true}

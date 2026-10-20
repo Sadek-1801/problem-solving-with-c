@@ -1,1 +1,0 @@
-{"name":"Local: longest_streak","url":"/home/sadek/phitron/practice_contest/longest_streak.c","tests":[{"id":1792426578191,"input":"8\n1 1 0 1 1 1 0 1","output":"3"},{"id":1792427000077,"input":"2\n0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sadek/phitron/practice_contest/longest_streak.c","group":"local","local":true}
